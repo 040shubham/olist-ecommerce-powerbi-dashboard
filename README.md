@@ -74,6 +74,10 @@ The dashboard helps stakeholders explore sales performance, identify high-revenu
 
 ## Dashboard Preview
 
+
+![Olist Power BI Dashboard Preview](./dashboard-preview.png)
+
+
 **Project:** Olist E-Commerce Sales & Business Performance Dashboard
 
 **Tools:** Power BI, Power Query, DAX
