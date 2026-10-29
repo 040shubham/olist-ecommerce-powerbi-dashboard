@@ -72,6 +72,14 @@ The dashboard helps stakeholders explore sales performance, identify high-revenu
 - `Olist1.pdf` — Exported dashboard report (if included)
 - Power BI `.pbix` file — Interactive dashboard source (if included)
 
+## Dashboard Preview
+
+View the exported dashboard report: [Olist Power BI Dashboard (PDF)](./Olist1.pdf)
+
+### Interactive Dashboard
+Download the Power BI report file (`.pbix`) from this repository and open it using Microsoft Power BI Desktop.
+
+
 ## Author
 Data Analytics Portfolio Project
 
