@@ -74,10 +74,23 @@ The dashboard helps stakeholders explore sales performance, identify high-revenu
 
 ## Dashboard Preview
 
-View the exported dashboard report: [Olist Power BI Dashboard (PDF)](./Olist1.pdf)
+**Project:** Olist E-Commerce Sales & Business Performance Dashboard
 
-### Interactive Dashboard
-Download the Power BI report file (`.pbix`) from this repository and open it using Microsoft Power BI Desktop.
+**Tools:** Power BI, Power Query, DAX
+
+**Dashboard Pages:**
+- Executive Overview
+- Product & Category Analysis
+- Geography Analysis
+- Delivery Performance
+- Customer Insights & Retention
+- Payment & Sales Analysis
+
+### View the Report
+[Open the PDF Dashboard](./Olist1.pdf)
+
+### Interactive Version
+Download the `.pbix` file from this repository and open it in Power BI Desktop.
 
 
 ## Author
